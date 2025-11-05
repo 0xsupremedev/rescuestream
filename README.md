@@ -1,4 +1,4 @@
-# 🚨 RescueStream
+# RescueStream
 
 **Real-time DeFi Position Monitoring & Automated Rescue System for Somnia Networks**
 
@@ -248,9 +248,6 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## 🏷️ Repository Topics
-
-`defi` `somnia` `blockchain` `lending-protocol` `defi-monitoring` `position-tracking` `health-factor` `liquidation-protection` `automated-rescue` `realtime-data` `data-streams` `hardhat` `ethers` `solidity` `react` `typescript` `vite` `wagmi` `rainbowkit` `smart-contracts` `oracle` `chainlink` `uniswap` `price-feeds` `web3` `ethereum` `somnia-network`
 
 ## 👤 Author
 
